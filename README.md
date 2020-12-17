@@ -37,4 +37,4 @@
 ### 수상 내역
 
 
- ![award](수상.PNG)
+ ![award](images/수상.PNG)
