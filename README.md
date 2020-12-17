@@ -16,7 +16,7 @@
 ### 요약
 
 
-![summary](images/summart.PNG)
+![summary](images/summary.PNG)
 
 　
  　
